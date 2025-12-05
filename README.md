@@ -126,3 +126,5 @@ Vous devez :
 
     on s'est trompé mais on a déjà poussé ton code donc tout le monde l'as vu.
     git revert (on assume, on crée un commit qui annule, et l'historique reste cohérent pour tout le monde).
+
+J'ai choisi revert car tout le monde a pu voir ma faute, donc le code était push. Git reset n'aurait rien pu changé, a moins de recommit, repush, alors que git revert le fait automatiquement.
