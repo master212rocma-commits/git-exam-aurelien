@@ -65,7 +65,7 @@ gitGraph
 ```
 
 ## **Exercice 1**
-**(2 points)** Un fichier `.gitignore` est un fichier placé à la racine d’un dépôt qui permet d’ignorer certains fichiers ou types de fichiers lors d’un commit. Par exemple certains fichiers sensibles, ou propre à la machine, n’ont pas leur place dans un environnement de travail partagé.
+**(2 points)** Un fichier `.gitignore` est un fichier placé à la racine d’un dépôt qui permet d’ignorer certains fichiers ou types de fichiers lors d’un commit. Par exemple certains fichiers sensibles, ou propre à la machine, n’ont pas leur place dans un environnement de travail partagé. le code de marie est pitichat24.
 
 Créez un fichier `.gitignore` et ajoutez les lignes `go.mod` et `.DS_Store` puis ajoutez le au dépôt distant.
 
