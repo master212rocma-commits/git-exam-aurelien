@@ -70,7 +70,7 @@ gitGraph
 Créez un fichier `.gitignore` et ajoutez les lignes `go.mod` et `.DS_Store` puis ajoutez le au dépôt distant.
 
 ## **Exercice 2**
-**(2 points)** Le fichier `README.md` comporte une erreur mineure. Pour une correction urgente et mineure, faites simplement une correction rapide en créant une nouvelle branche `hotfix` pour modifier le fichier et changer dans la phrase les mots “une fonctionnalité” en “deux fonctionnalités”. Intégrez ensuite vos changements dans la branche `main`.
+**(2 points)** Le fichier `README.md` comporte une erreur mineure. Pour une correction urgente et mineure, faites simplement une correction rapide en créant une nouvelle branche `hotfix` pour modifier le fichier et changer dans la phrase les mots “deux fonctionnalités” en “deux fonctionnalités”. Intégrez ensuite vos changements dans la branche `main`.
 
 ## **Exercice 3**
 **(4 points)** Le travail sur la branche `feature-url` qui ajoute la première fonctionnalité est déjà terminée. Intégrez la dans la branche `dev` en utilisant `git rebase`.
